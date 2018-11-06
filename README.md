@@ -1,4 +1,4 @@
 # sensu-redis-azure
 Dependencies:
-  redis
-  argparse
+  * redis
+  * argparse
